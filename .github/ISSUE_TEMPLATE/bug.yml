@@ -1,0 +1,50 @@
+name: Report a bug
+description: Something in the game is broken or does not work as expected.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make The Backrooms better. The more detail you share,
+        the faster it can be fixed.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem in your own words.
+      placeholder: On LEVEL 37 the water..., or the game froze when...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      placeholder: I expected to...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      description: If you can, say which level you were on and what you were doing. A seed link (`?seed=...`) is even better.
+      placeholder: |
+        1. Play with ?seed=1234
+        2. On LEVEL 1, walk to ...
+        3. See ...
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: Windows 11 / Chrome, or iPhone 15 / Safari
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or video
+      description: Drag and drop any images here. A picture often explains it best.
+    validations:
+      required: false
