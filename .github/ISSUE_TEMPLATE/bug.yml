@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping make The Backrooms better. The more detail you share,
+        Thanks for helping make Subsidence better. The more detail you share,
         the faster it can be fixed.
   - type: textarea
     id: what-happened

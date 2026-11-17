@@ -1,6 +1,6 @@
 # Credits
 
-The Backrooms combines sound and music synthesized in code with a small set of
+Subsidence combines sound and music synthesized in code with a small set of
 third-party assets. Everything listed here is public domain (CC0) or openly
 licensed, and the attribution is kept so the sources stay traceable.
 

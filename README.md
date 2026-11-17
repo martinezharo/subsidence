@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/cover.png" alt="The Backrooms — an endless yellow maze" width="640" />
+  <img src="assets/cover.png" alt="Subsidence — an endless yellow maze" width="640" />
 </p>
 
-<h1 align="center">THE BACKROOMS</h1>
+<h1 align="center">SUBSIDENCE</h1>
 
 <p align="center"><strong>you noclipped out of reality</strong></p>
 
@@ -59,9 +59,9 @@ hands.
 This repository is the game's public home. If you got stuck, found a bug, or
 thought of something that would make the descent better, tell us:
 
-- **Found a bug?** [Report it](https://github.com/martinezharo/backrooms/issues/new?template=bug.yml) — saying which level you were on and what you were doing helps a lot.
-- **Have an idea?** [Suggest it](https://github.com/martinezharo/backrooms/issues/new?template=suggestion.yml).
-- **Anything else?** [Open an issue](https://github.com/martinezharo/backrooms/issues/new) and tell us.
+- **Found a bug?** [Report it](https://github.com/martinezharo/subsidence/issues/new?template=bug.yml) — saying which level you were on and what you were doing helps a lot.
+- **Have an idea?** [Suggest it](https://github.com/martinezharo/subsidence/issues/new?template=suggestion.yml).
+- **Anything else?** [Open an issue](https://github.com/martinezharo/subsidence/issues/new) and tell us.
 
 The source code is not public. This repository exists for the community: bug
 reports, suggestions, and announcements about the game.
@@ -73,4 +73,4 @@ see [CREDITS.md](CREDITS.md).
 
 ## Links
 
-- **Play The Backrooms**: <https://backrooms.4oli.com/>
+- **Play Subsidence**: <https://backrooms.4oli.com/>
