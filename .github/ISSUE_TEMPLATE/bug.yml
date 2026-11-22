@@ -13,7 +13,7 @@ body:
     attributes:
       label: What happened?
       description: Describe the problem in your own words.
-      placeholder: On LEVEL 37 the water..., or the game froze when...
+      placeholder: On Shallow End the water..., or the game froze when...
     validations:
       required: true
   - type: textarea
@@ -27,10 +27,10 @@ body:
     id: steps
     attributes:
       label: How can we reproduce it?
-      description: If you can, say which level you were on and what you were doing. A seed link (`?seed=...`) is even better.
+      description: If you can, say which floor you were on and what you were doing. A seed link (`?seed=...`) is even better.
       placeholder: |
         1. Play with ?seed=1234
-        2. On LEVEL 1, walk to ...
+        2. On Empty Bays, walk to ...
         3. See ...
     validations:
       required: false
