@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="Subsidence — an endless yellow maze" width="640" />
+  <img src="assets/cover.png" alt="Subsidence title over an endless yellow office labyrinth" width="640" />
 </p>
 
 <h1 align="center">SUBSIDENCE</h1>
